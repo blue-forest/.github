@@ -10,4 +10,3 @@ Language usage and contributions guides will gradually be uploaded. We are and w
 - Nazim Lachter ([@n4zim](https://github.com/n4zim)) : Co-founder, Developer and Ops
 - Ariane Save ([@ariane5s](https://github.com/ariane5s)) : Co-founder and UI/UX Designer
 - Vulcain ([@vulc41n](https://github.com/vulc41n)) : Developer and head of the open source taskforce
-- Sylvain Cuomo ([@Sylvaiinc](https://github.com/Sylvaiinc)) : Developer and QA supervisor
