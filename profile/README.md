@@ -2,7 +2,7 @@
 
 We called this language **drop'in**, and we decided to open source our foundations codebase to share our researches with the community.
 
-Our final service is under development but we are currently working on a [WebAssembly compiler](https://github.com/blue-forest/dropin) with Rust as the main language. Our current priority is to create a stable version for compilation involving documentation and testing. If you are interested in the project, you can [read more on our documentation](https://dropin.recipes).
+Our final service is under development but we are currently working on a [cross-platform application compiler](https://github.com/blue-forest/dropin) with Rust as the main language. Our current priority is to create a stable version for compilation involving documentation and testing. If you are interested in the project, you can [read more on our documentation](https://dropin.recipes).
 
 Language usage and contributions guides will gradually be uploaded. We are and will always be open to your contributions, thank you for your help !
 
