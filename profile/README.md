@@ -7,6 +7,5 @@ Our final service is under development but we are currently working on a [cross-
 Language usage and contributions guides will gradually be uploaded. We are and will always be open to your contributions, thank you for your help !
 
 ## Our team
-- Nazim Lachter ([@n4zim](https://github.com/n4zim)) : Co-founder, Developer and DevOps
-- Ariane Save ([@ariane5s](https://github.com/ariane5s)) : Co-founder and UI/UX Designer
-- Vulcain ([@vulc41n](https://github.com/vulc41n)) : System Developer
+- Nazim Lachter ([@n4zim](https://github.com/n4zim)) : Co-founder, Front-end/Back-end/System Developer and DevOps
+- Ariane Save ([@ariane5s](https://github.com/ariane5s)) : Co-founder, Front-end Developer and UI/UX Designer
